@@ -103,7 +103,7 @@ The project reveals key business insights such as top-performing products, high-
 - Consistent KPI cards and visual styling
 
 7.  Overview/ Demo
-- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png)
+- ![ALT text](https://github.com/Shantanum10/Nike-Sales-Dashboard/blob/main/Nike_Home.png)
 
-- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Overview.png)
+- ![ALT text](https://github.com/Shantanum10/Nike-Sales-Dashboard/blob/main/Nike_Overview.png)
 
