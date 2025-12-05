@@ -101,3 +101,9 @@ The project reveals key business insights such as top-performing products, high-
 - Bookmarks, tooltips & drill-through interactions
 
 - Consistent KPI cards and visual styling
+
+7.  Overview/ Demo
+- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Home.png)
+
+- ![ALT text](https://github.com/Shantanum10/Uber-Dashboard/blob/main/Uber_Overview.png)
+
