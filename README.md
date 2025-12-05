@@ -107,3 +107,7 @@ The project reveals key business insights such as top-performing products, high-
 
 - ![ALT text](https://github.com/Shantanum10/Nike-Sales-Dashboard/blob/main/Nike_Overview.png)
 
+- ![ALT text](https://github.com/Shantanum10/Nike-Sales-Dashboard/blob/main/Nike_Sales.png)
+- ![ALT text](https://github.com/Shantanum10/Nike-Sales-Dashboard/blob/main/Nike_Sales_Insight.png)
+
+
